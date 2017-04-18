@@ -1,7 +1,10 @@
-# test coverage for  [fast-csv (v2.4.0)](http://c2fo.github.com/fast-csv/index.html)  [![npm package](https://img.shields.io/npm/v/npmtest-fast-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fast-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fast-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-fast-csv)
+# npmtest-fast-csv
+
+#### test coverage for  [fast-csv (v2.4.0)](http://c2fo.github.com/fast-csv/index.html)  [![npm package](https://img.shields.io/npm/v/npmtest-fast-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fast-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fast-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-fast-csv)
+
 #### CSV parser and writer
 
-[![NPM](https://nodei.co/npm/fast-csv.png?downloads=true)](https://www.npmjs.com/package/fast-csv)
+[![NPM](https://nodei.co/npm/fast-csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fast-csv)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-fast-csv/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fast-csv/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fast-csv/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-fast-csv/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-fast-csv/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-fast-csv/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-fast-csv/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-fast-csv/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-fast-csv%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-fast-csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-fast-csv/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-fast-csv/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-fast-csv%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fast-csv/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.html](https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-fast-csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-fast-csv/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-fast-csv/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-fast-csv/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-fast-csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fast-csv/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-fast-csv/build/screenCapture.npmPackageListing.svg)
 
@@ -69,17 +78,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "damartin",
-            "email": "doug@dougamartin.com"
+            "name": "damartin"
         },
         {
-            "name": "dustinsmith1024",
-            "email": "dds1024@gmail.com"
+            "name": "dustinsmith1024"
         }
     ],
     "name": "fast-csv",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/C2FO/fast-csv.git"

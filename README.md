@@ -1,6 +1,6 @@
 # npmtest-fast-csv
 
-#### test coverage for  [fast-csv (v2.4.0)](http://c2fo.github.com/fast-csv/index.html)  [![npm package](https://img.shields.io/npm/v/npmtest-fast-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fast-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fast-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-fast-csv)
+#### basic test coverage for  [fast-csv (v2.4.0)](http://c2fo.github.com/fast-csv/index.html)  [![npm package](https://img.shields.io/npm/v/npmtest-fast-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fast-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fast-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-fast-csv)
 
 #### CSV parser and writer
 
